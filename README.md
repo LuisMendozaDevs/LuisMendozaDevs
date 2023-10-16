@@ -1,6 +1,5 @@
 <div class = "header" align = "center">
   <h1>Hi, i'm Luis Mendoza:wave:</h1>
-  <img src= "Luis_Mendoza2.jpg">
   <h3>An enthusiastic Mexican junior web developer, lover of code and challenges.</h3>
 </div>
 ---
